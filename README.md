@@ -1,1 +1,2 @@
 # pythondatasci
+i'm beginner
